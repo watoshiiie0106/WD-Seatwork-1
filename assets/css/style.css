@@ -90,6 +90,7 @@
   flex-direction: column;
   gap: 2rem;
   flex: 1;
+  color: #240020;
 
   .hero {
     width: 100%;
